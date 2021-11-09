@@ -5,7 +5,7 @@ Hi.
 
 This repository provides the implementation details of the Stark &
 Wayne Welcome application, which you can use to vet and validate
-your shiny new Cloud Foundry installation.Test.
+your shiny new Cloud Foundry installation.
 
 To deploy it:
 
